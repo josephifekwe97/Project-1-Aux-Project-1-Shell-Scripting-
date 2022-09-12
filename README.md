@@ -1,1 +1,1 @@
-Aux-Project-1-Shell-Scripting-
+Aux-Project-1-Shell-Scripting
